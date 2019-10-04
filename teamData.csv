@@ -1,4 +1,4 @@
-id,primaryColor,secondarColor,name,abbrevation
+teamId,primaryColor,secondarColor,name,abbrevation
 "100","rgba(0,34,68,1)","rgba(127,150,149,1)","COWBOYS","DAL"
 "101","rgba(0,34,68,1)","rgba(198,12,48,1)","PATRIOTS","NE"
 "102","rgba(0,76,84,1)","rgba(165,172,175,1)","EAGLES","PHI"
